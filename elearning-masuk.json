@@ -1,9 +1,9 @@
 {
-  success: true,
-  data: {
-    masuk: [
+  "success": true,
+  "data": {
+    "masuk": [
       {
-        data: 'aaaaa'
+        "data": "aaaaa"
       }
     ]
   }
