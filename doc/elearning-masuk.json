@@ -1,0 +1,58 @@
+{
+    "message": "Data telah tersimpan",
+    "errors": null,
+    "success": true,
+    "data": {
+        "schedule": {
+            "id": 1644,
+            "class_name": "A",
+            "course_name": "Filsafat Ilmu",
+            "schedule_type_id": 1,
+            "schedule_type_str": null,
+            "lecture": [
+                {
+                    "id": 277,
+                    "nidn": "",
+                    "front_title": "",
+                    "name": "Raihan",
+                    "back_title": ""
+                }
+            ],
+            "schedule_time": [
+                {
+                    "room": "303",
+                    "start": "08:30:00",
+                    "end": "10:00:00",
+                    "day_id": 6,
+                    "day_str": "Sabtu"
+                }
+            ],
+            "sessions": [
+                {
+                    "id": 12676,
+                    "lecture_id": 0,
+                    "schedule_id": 1016,
+                    "session_type_id": 1,
+                    "order": 1,
+                    "date": "0001-01-01T00:00:00Z",
+                    "created_at": "2023-06-11T09:11:14+07:00",
+                    "updated_at": "2023-06-11T09:11:14+07:00",
+                    "deleted_at": null,
+                    "session_type": {"name": "offline"}
+                },
+                {
+                    "id": 12676,
+                    "lecture_id": 0,
+                    "schedule_id": 1016,
+                    "session_type_id": 1,
+                    "order": 2,
+                    "date": "0001-01-01T00:00:00Z",
+                    "created_at": "2023-06-11T09:11:14+07:00",
+                    "updated_at": "2023-06-11T09:11:14+07:00",
+                    "deleted_at": null,
+                    "session_type": {"name": "offclass"}
+                }
+            ]
+        }
+    }
+}
