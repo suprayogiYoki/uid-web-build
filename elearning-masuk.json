@@ -1,0 +1,10 @@
+{
+  success: true,
+  data: {
+    masuk: [
+      {
+        data: 'aaaaa'
+      }
+    ]
+  }
+}
