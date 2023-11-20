@@ -4,9 +4,21 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"version.json": "191595f72c94967ff44fc676a3aedb8c",
+<<<<<<< HEAD
 "index.html": "78fd5536fb8fb41efc0fc2dda143f6a1",
 "/": "9c5ae611179d45241b673e1afe90451f",
 "main.dart.js": "7310ad64e0b5854e174580c272b02768",
+=======
+<<<<<<< HEAD
+"index.html": "d0c0adf757e63449700bbcc8ef32fe63",
+"/": "9c5ae611179d45241b673e1afe90451f",
+"main.dart.js": "efd07db9de2c698b76fcbb23b5011ad2",
+=======
+"index.html": "78fd5536fb8fb41efc0fc2dda143f6a1",
+"/": "9c5ae611179d45241b673e1afe90451f",
+"main.dart.js": "7310ad64e0b5854e174580c272b02768",
+>>>>>>> 3322264 (update)
+>>>>>>> temp
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "editor.html": "a24a2355d4f611a98fe0d047825a0e4a",
 "ckeditor5-build-classic/LICENSE.md": "8782fd9871a0fc1929fa947cbca52026",
@@ -95,13 +107,29 @@ const RESOURCES = {"version.json": "191595f72c94967ff44fc676a3aedb8c",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "d37c4da88379fe0a558eae1a785147b2",
 "assets/AssetManifest.json": "5bb7ef25e16dece11fc31fadc2c2f068",
+<<<<<<< HEAD
 "assets/NOTICES": "2b2a53a7c4d2d4fd4a07bd78a05eed6a",
+=======
+<<<<<<< HEAD
+"assets/NOTICES": "9d7247af16c37923011dabd3d596081f",
+=======
+"assets/NOTICES": "2b2a53a7c4d2d4fd4a07bd78a05eed6a",
+>>>>>>> 3322264 (update)
+>>>>>>> temp
 "assets/FontManifest.json": "42bef6d4a8edb8b2efc82c096beb613f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/eva_icons_flutter/lib/fonts/Eva-Icons.ttf": "a71dbd49ad4a52020638190e30ac52e0",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "assets/AssetManifest.bin": "68db9ae49bc48442e718d639317cf728",
+<<<<<<< HEAD
 "assets/fonts/MaterialIcons-Regular.otf": "2989cf07b47f0e11665ba19ab59df84d",
+=======
+<<<<<<< HEAD
+"assets/fonts/MaterialIcons-Regular.otf": "65758eb8b0c3c1b700cd7bca77debf9e",
+=======
+"assets/fonts/MaterialIcons-Regular.otf": "2989cf07b47f0e11665ba19ab59df84d",
+>>>>>>> 3322264 (update)
+>>>>>>> temp
 "assets/assets/images/default_dosen.png": "f201067c549f6d615d2237ed763dc552",
 "assets/assets/images/raster/man.png": "19a852dd0aec1631c9ca4a67207053a1",
 "assets/assets/uid/images/logo.png": "fe2eca3313b3d2494de949a9e1c6b00b",
